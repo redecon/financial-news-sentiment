@@ -1,1 +1,4 @@
-# Scripts\n\nUtility scripts (data download, preprocessing, etc.)
+# Scripts
+
+Future utility scripts (data processing, API, etc.)
+Currently empty — ready for extension.
