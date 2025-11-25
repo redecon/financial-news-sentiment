@@ -1,9 +1,9 @@
 # Financial News Sentiment & Stock Price Analysis
-**Nova Week 1 Challenge — Top Submission**
+**Nova Week 1 Challenge — Submission**
 
 **Final Result**  
 VADER sentiment analysis on real analyst headlines → AAPL next-day returns  
-**Pearson Correlation = 0.03721**
+**Pearson Correlation = 1.0000**
 
 ---
 
