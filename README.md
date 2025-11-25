@@ -23,7 +23,7 @@ VADER sentiment analysis on real analyst headlines → AAPL next-day returns
 ### Project Structure
 financial-news-sentiment/
 ├── notebooks/
-│   └── nova_week1_analysis.ipynb    ← Complete Task 1–3 analysis
+  └── nova_week1_analysis.ipynb    ← Complete Task 1–3 analysis
 ├── scripts/                         ← Ready for future scripts
 ├── task1_eda_final_official.png
 ├── aapl_technical_analysis_final.png
@@ -38,6 +38,3 @@ financial-news-sentiment/
 3. All plots and results auto-save to the repo
 
 **100% complete • Real official FNSPID dataset • Green CI/CD • Professional Git workflow**
-
-Submitted with confidence  
-https://github.com/redecon/financial-news-sentiment
