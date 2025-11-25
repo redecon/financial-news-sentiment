@@ -21,6 +21,7 @@ VADER sentiment analysis on real analyst headlines → AAPL next-day returns
 ---
 
 ### Project Structure
+```text
 financial-news-sentiment/
 ├── notebooks/
   └── nova_week1_analysis.ipynb    ← Complete Task 1–3 analysis
@@ -31,7 +32,7 @@ financial-news-sentiment/
 ├── .github/workflows/unittests.yml  ← GitHub Actions CI/CD (green)
 ├── tests/test_dummy.py
 └── README.md
-
+```
 ### How to Run
 1. Open `notebooks/nova_week1_analysis.ipynb` in Google Colab  
 2. Run all cells — **fully reproducible**  
